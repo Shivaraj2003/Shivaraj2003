@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="left">Hey there 👋<br>I am Shivaraj Shetty</h1>
+<h1 align="left">Hey there 👋<br> I am Shivaraj Shetty</h1>
 
 ###
 
