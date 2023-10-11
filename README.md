@@ -40,6 +40,8 @@
 
 ###
 
+[![An image of @shivaraj2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivaraj2003)](https://holopin.io/@shivaraj2003)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
