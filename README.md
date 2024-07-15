@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">📚 Computer Science Student | 💻 Code Enthusiast | 🚀 Aspiring Developer</h3>
+<h3 align="left">📚 Computer Science Graduate | 💻 Code Enthusiast | 🚀 Aspiring Developer</h3>
 
 ###
 
